@@ -9,4 +9,5 @@
 ### Other Projects & Interests
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/@queucleo)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=flat)](https://open.spotify.com/user/31ngqh7wpgibicp3y3shdwrhjspy?si=7850cc037899460e)
+![FL Studio](https://img.shields.io/badge/FL_Studio-FF8000?style=flat&logo=fl-studio&logoColor=white)
 
